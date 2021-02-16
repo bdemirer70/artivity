@@ -1,0 +1,7 @@
+{
+  "name": "artivity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
